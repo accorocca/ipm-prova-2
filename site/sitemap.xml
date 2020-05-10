@@ -1,52 +1,59 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gettypubs.github.io/quire-starter/</loc>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/quire-starter/contents/</loc>
+    <loc>/contents/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/quire-starter/intro/</loc>
+    <loc>/1.-storia-del-mago-doppio/dal-diario-di-ernesta-rota-rinaldi/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/quire-starter/essay/</loc>
+    <loc>/1.-storia-del-mago-doppio/1/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/quire-starter/catalogue/</loc>
+    <loc>/1.-storia-del-mago-doppio/2/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/quire-starter/catalogue/1/</loc>
+    <loc>/2.-juvenilia/2.-juvenilia-1/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/quire-starter/catalogue/2/</loc>
+    <loc>/2.-juvenilia/2b/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/quire-starter/catalogue/3/</loc>
+    <loc>/2.-juvenilia/2.-juvenilia-2/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/quire-starter/catalogue/4/</loc>
+    <loc>/2.-juvenilia/2b0/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/quire-starter/bibliography/</loc>
+    <loc>/essay/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/quire-starter/contributors/</loc>
+    <loc>/catalogue/</loc>
   </url>
   
   <url>
-    <loc>https://gettypubs.github.io/quire-starter/about/</loc>
+    <loc>/bibliography/</loc>
+  </url>
+  
+  <url>
+    <loc>/contributors/</loc>
+  </url>
+  
+  <url>
+    <loc>/about/</loc>
   </url>
   
 </urlset>
