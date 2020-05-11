@@ -50,5 +50,4 @@ params:
   figureModalIcons: true
   figureZoom: true
   citationPopupStyle: text # text | icon
-
-hrefTargetBlank: true
+  hrefTargetBlank: true
